@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
-	printf("Bonjour DevOps !!! \n")
+	for(int i=1;i<5; i++)
+	printf("%d : Bonjour DevOps !!! \n");
 	return 0;
 }
